@@ -1,0 +1,9 @@
+# Dependencias (pesan mucho y se descargan con npm install)
+node_modules/
+
+# Archivo de secretos (Aquí están tus tokens de INEGI, NASA y Fútbol)
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
